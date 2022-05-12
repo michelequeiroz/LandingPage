@@ -157,7 +157,23 @@ svg {
 }
 
 .rodape-imagem {
-    height: 88px;
+    height: 98px;
     display: block;
     margin: 0  auto; 
+}
+
+.links-rodape {
+    
+    height: 100px;
+    width: 0 auto;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 15px;
+
+}
+
+.icones {
+    height: 38px;
+    
 }
