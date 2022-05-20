@@ -6,4 +6,4 @@ Resolvi fazer uma page dos meus Donutts, que fez sucesso no início da pandemia.
 Estou feliz com o resultado.
 </p>
 <br>
-<img src="img/langpage.png" alt="landing page">
+<img src="img/landingpage.png" alt="landing page">
